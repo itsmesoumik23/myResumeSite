@@ -57,6 +57,9 @@ body{
         /* line-height: 50px; */
         background: black !important;
     }
+    .name-middle{
+        font-size: 4.8rem !important;
+    }
     .hello{
         font-size: 1.5rem !important;
     }
@@ -73,7 +76,7 @@ body{
         padding: 50px 30px !important;
     }
     iframe{
-        width: 390px !important;
+        width: 290px !important;
     }
     .w3-container{
         padding: 0px 30px !important;
