@@ -49,7 +49,7 @@ body{
 }
 
 
-@media (min-width: 502px) {
+@media (max-width: 600px) {
     .mid {
         text-align: center;
         padding-bottom: 195px;
@@ -58,7 +58,7 @@ body{
         background: black !important;
     }
     .hello{
-        font-size: 1rem !important;
+        font-size: 1.5rem !important;
     }
     .w3-xlarge{
         font-size: 23px !important;
@@ -66,8 +66,11 @@ body{
     .w3-panel{
         padding: 0px 30px !important;
     }
-    .prof-intro, .details, .skill-intro, .details, .pseudorandom, .covid, .keep{
+    .prof-intro, .details, .skill-intro, .details{
         padding: 0px 30px !important;
+    }
+    .pseudorandom, .covid, .keep{
+        padding: 50px 30px !important;
     }
     iframe{
         width: 390px !important;
