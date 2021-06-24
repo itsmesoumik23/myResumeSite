@@ -7,7 +7,12 @@ body{
     transform: rotate(45def);
     -webkit-transform: rotate(45def);
 }
-
+.fas{
+    font-size: 3rem;
+    padding-bottom: 2rem;
+    color: white;
+    text-align: center;
+}
 .w3-xlarge{
     font-size: 30px !important;
 }
